@@ -158,12 +158,12 @@
     "grammar"
   ],
   "key2": [
-    "Schema",
-    "Artifacts",
-    "Assets",
+    "primify",
+    "corpus",
     "depot_tools",
-    "distribution",
-    "sitemap"
+    "build",
+    "factory",
+    "headings"
   ]
 }
 ,
