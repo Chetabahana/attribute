@@ -1,10 +1,10 @@
-id: 22
+id: 9
 user: eq19
-span: span-3
+span: span10
 title: eQuantum
 baseurl: /attribute
 repository: Chetabahana/attribute
-action: Chetabahana/artifacts/actions/runs/15325641147
+action: Chetabahana/artifacts/actions/runs/15877488575
 description: 
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [1, 8]
+  spin: [0, 8]
   pinned: [maps, feed, lexer, parser, syntax, grammar, artifacts, attribute, method, model, trace, track]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
